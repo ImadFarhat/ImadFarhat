@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 My name is Imad Farhat, I am currently a CS student at UIC. I have a considerable amount of experience in C++ and C, but I also have experience in Java, Lisp, C#, Html/CSS, Python, and godot script. Outside of school, I've worked on a couple web-based projects and a considerable amount of experience using various game engines on professional teams and individually (Godot, Unreal Engine, Unity). I have a lot of experience in Linux both personally and for school projects. I'm looking to expand my knowledge of human-cenetered computing with job oppurtunities focused on customer interaction with software.
+
+Here's some projects I've made:
+
+[RPN Calculator](https://github.com/ImadFarhat/RPNCalculator): Basic C++ implementation of a Reverse Polish Notation Calculator, more information included in project.
+
+[Doubly Linked List](https://github.com/ImadFarhat/CustomDoublyLinkedList): C++ implementation of a custom Doubly Linked List, with nodes pointing forward and backward
